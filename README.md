@@ -27,3 +27,5 @@ This repository contains the following codes
 ## Recognition of patterns
 - Program Name:regpatterns.py
 - Modules Needes:regrex(re)
+
+### Note: In order to install any module search for pypi and then the module name.
