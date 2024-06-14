@@ -4,26 +4,26 @@ This repository contains the following codes
 Program Name:controllingkeyboard.py
 Modules Needes:pyautogui
 
-##Controlling of the mouse
+## Controlling of the mouse
 Program Name:controllingmouse.py
 Modules Needes:pyautogui
 
-##Using of the mail
+## Using of the mail
 Program Name:emailmanupulation.py
 Modules Needes:smtplib
 
-##Controlling of the Excel sheet
+## Controlling of the Excel sheet
 Program Name:excelmanupulation.py
 Modules Needes:openpyxl
 
-##Controlling of the PDF sheet
+## Controlling of the PDF sheet
 Program Name:pdfmanupulation.py
 Modules Needes:PyPDF2
 
-##Controlling of the word sheet
+## Controlling of the word sheet
 Program Name:wordmanupulation.py
 Modules Needes:docx
 
-##Recognition of patterns
+## Recognition of patterns
 Program Name:regpatterns.py
 Modules Needes:regrex(re)
