@@ -1,6 +1,6 @@
 # Automate the Booring Stuff with Python Book Codes
 This repository contains the following codes
-##Controlling of the keyboard
+## Controlling of the keyboard
 - Program Name:controllingkeyboard.py
 - Modules Needes:pyautogui
 
